@@ -7,4 +7,4 @@ def my_func(a):
         word = first_letter + string_element[1:]
         total.append(word)
     return total
-print(my_func("hello world"))
+print(my_func("привет мир"))
