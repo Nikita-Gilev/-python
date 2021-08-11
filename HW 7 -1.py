@@ -1,6 +1,6 @@
 class Matrix:
     def __init__(self, list_1, list_2):
-       
+
         self.list_1 = list_1
         self.list_2 = list_2
 
@@ -22,12 +22,12 @@ class Matrix:
 
 
 
-my_matrix = Matrix([[5, 18, 11],
-                    [6, 17, 23],
+my_matrix = Matrix([[51, 128, 11],
+                    [6, 17, 209],
                     [41, 50, 9]],
-                   [[45, 8, 2],
-                    [6, 7, 93],
-                    [24, 5, 97]])
+                   [[450, 18, 22],
+                    [66, 7, 93],
+                    [24, 51, 97]])
 
 
 
