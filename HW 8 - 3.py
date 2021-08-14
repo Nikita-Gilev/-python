@@ -1,6 +1,7 @@
 class NotANumberException(Exception):
-    def __init__(self, *args):
+    def __init__(self, result_list):
         self.result_list = []
+result_list = []
 while True:
     value = input('Введите числовой элемент для добавления в список или "stop" для выхода: ')
 
